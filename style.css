@@ -266,7 +266,7 @@ header .navbar ul li a:hover{
 }
 
 .skill .skill-container h1{
-    font-size: 50px;
+    font-size: 40px;
     color: rgb(85, 155, 15);
 }
 
@@ -317,7 +317,7 @@ header .navbar ul li a:hover{
    }
 
    .other-container h1{
-    font-size: 50px;
+    font-size: 40px;
     color: rgb(85, 155, 15);
 }
 
@@ -381,7 +381,7 @@ header .navbar ul li a:hover{
     height: 50px;
     width: 500px;
     background-color: #1a1a1a;
-    border-radius: 10px;
+    border-radius: 5px;
     font-size: 20px;
     color: #fff;
 }
