@@ -198,7 +198,9 @@ header .navbar ul li a:hover{
     padding-top: 20rem;
     
 }
-
+.about .heading{
+    font-size: 30px;
+}
 .about .edu-container{
     display: flex;
     padding: 3rem 0;
@@ -266,7 +268,7 @@ header .navbar ul li a:hover{
 }
 
 .skill .skill-container h1{
-    font-size: 40px;
+    font-size: 30px;
     color: rgb(85, 155, 15);
 }
 
@@ -317,7 +319,7 @@ header .navbar ul li a:hover{
    }
 
    .other-container h1{
-    font-size: 40px;
+    font-size: 30px;
     color: rgb(85, 155, 15);
 }
 
@@ -345,7 +347,7 @@ header .navbar ul li a:hover{
 }
 .contact-container h1{
     font-size: 50px;
-    color:rgb(85, 155, 15); 
+    color:rgb(9, 168, 9); 
 }
 .contact-details{
     display: flex;
@@ -396,19 +398,19 @@ header .navbar ul li a:hover{
 
 .contact-container .text-area #btn{
     height: 40px;
-    width: 200px;
+    width: 150px;
     border-radius: 10px;
-    font-size: 30px;
+    font-size: 20px;
     background-color: #1a1a1a;
     color: #fff;
-    margin-left: 150px;
-    margin-top: 20px;
+    margin-left: 180px;
+    margin-top: 15px;
     cursor: pointer;
 
 }
 
 .contact-container .text-area #btn:hover{
-    background-color: rgb(85, 155, 15);
+    background-color: rgb(9, 168, 9);
 }
 
 
