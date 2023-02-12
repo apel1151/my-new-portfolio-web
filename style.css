@@ -269,7 +269,7 @@ header .navbar ul li a:hover{
 
 .skill .skill-container h1{
     font-size: 30px;
-    color: rgb(85, 155, 15);
+    color: rgb(9, 168, 9);
 }
 
 .skill .skill-container h2{
@@ -320,7 +320,7 @@ header .navbar ul li a:hover{
 
    .other-container h1{
     font-size: 30px;
-    color: rgb(85, 155, 15);
+    color: rgb(9, 168, 9);
 }
 
     .other-container p{
@@ -346,7 +346,7 @@ header .navbar ul li a:hover{
     
 }
 .contact-container h1{
-    font-size: 50px;
+    font-size: 30px;
     color:rgb(9, 168, 9); 
 }
 .contact-details{
@@ -380,7 +380,7 @@ header .navbar ul li a:hover{
 }
 .contact-container .text-area input{
     margin: 8px;
-    height: 50px;
+    height: 40px;
     width: 500px;
     background-color: #1a1a1a;
     border-radius: 5px;
